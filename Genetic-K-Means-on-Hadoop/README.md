@@ -1,1 +1,0 @@
-# Genetic-K-Means-on-Hadoop
