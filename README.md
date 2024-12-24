@@ -4,6 +4,8 @@ This repository contains the code implementation of the algorithm presented in t
 
 **Title:** A Multi-threaded Particle Swarm Optimization-KMeans Algorithm Based on MapReduce  
 **DOI:** [10.1007/s10586-024-04456-w](https://doi.org/10.1007/s10586-024-04456-w)
+**Authors:** Xikang Wang, Tongxi Wang, Hua Xiang
+**Developer:** Xikang Wang
 
 ## Overview
 The code implements a multi-threaded particle swarm optimization (PSO) algorithm combined with KMeans clustering, designed to work efficiently in a Hadoop-based MapReduce environment.
